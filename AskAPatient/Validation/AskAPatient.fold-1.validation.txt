@@ -127,7 +127,7 @@
 57676002	Arthralgia	joint pain
 271782001	Drowsy	sleepy
 51197009	Stomach cramps	Stomach cramps
-83901003	SjÃ¶gren's syndrome	sorgren's syndrome
+83901003	Sjögren's syndrome	sorgren's syndrome
 22298006	Myocardial infarction	heart attack
 249489001	Choking	choking the throat
 399153001	Vertigo	vertigo
